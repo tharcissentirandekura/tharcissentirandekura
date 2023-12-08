@@ -7,10 +7,15 @@ I am particularly interested in software engineering, web development, and data 
 - 🌱 I’m currently learning Data Structure and Algorithms in class.
 - 👯 I’m looking to collaborate on Sign Language recognition model( Machine learning) with python3.
 - 🤔 I’m looking for help with feedback on my code quality.
-- 💬 Ask me about python.
+- 💬 Ask me about pythonLogo device only.
 - 📫 How to reach me:
 - Email:tharcissentira@gmail.com
 - Linkedin : https://www.linkedin.com/in/tharcisse-ntirandekura
-- Instagram : _tharack
+- Instagram: _tharack
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am the only programmer in my family.
+
+**Skills:** 
+Python, web development, and database.
+Tools:
+
