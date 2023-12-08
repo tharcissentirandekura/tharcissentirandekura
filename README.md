@@ -1,4 +1,5 @@
 Hello World!! 👋,
+![mybackimge](https://github.com/tharcissentirandekura/tharcissentirandekura/assets/119756165/158f46b4-0347-4992-977a-bf2b56bc87dd)
 
 - I am Tharcisse Ntirandekura
 - Call me: Tharack
@@ -14,4 +15,3 @@ Hello World!! 👋,
 - Linkedin : https://www.linkedin.com/in/tharcisse-ntirandekura
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am the only programmer in my family.
-[mybackimge](https://github.com/tharcissentirandekura/tharcissentirandekura/assets/119756165/d583744f-3ba2-4918-b424-6caccf1178c9)
