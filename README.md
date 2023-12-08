@@ -9,8 +9,8 @@ I am particularly interested in software engineering, web development, and data 
 - 🤔 I’m looking for help with feedback on my code quality.
 - 💬 Ask me about python.
 - 📫 How to reach me:
-   . Email:tharcissentira@gmail.com
-   .Linkedin : https://www.linkedin.com/in/tharcisse-ntirandekura
-   . _tharack
+- Email:tharcissentira@gmail.com
+- Linkedin : https://www.linkedin.com/in/tharcisse-ntirandekura
+- Instagram : _tharack
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am the only programmer in my family.
