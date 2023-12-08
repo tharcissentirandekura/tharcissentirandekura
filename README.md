@@ -1,17 +1,16 @@
-Hello World!! 👋,
-![mybackimge](https://github.com/tharcissentirandekura/tharcissentirandekura/assets/119756165/158f46b4-0347-4992-977a-bf2b56bc87dd)
+Hello World!! 👋 I am Tharcisse Ntirandekura and you can call me Tharack. I am studying Computer Science at Oberlin College. 🏫
 
-- I am Tharcisse Ntirandekura
-- Call me: Tharack
-- I am studying Computer Science at Oberlin College
+I am particularly interested in software engineering, web development, and data science. I am currently learning Django, JavaScript, and SQLite.
 - I use Python and its framework, Django, for the backend
 - Frontend : Html5, Css3, Javascript
-- 🔭 I’m currently working on a weather app using html5, css3,javascript and django.
-- 🌱 I’m currently learning Data Structure and Algorithms
+- 🔭 I’m currently working on Readme and also my personal website.
+- 🌱 I’m currently learning Data Structure and Algorithms in class.
 - 👯 I’m looking to collaborate on Sign Language recognition model( Machine learning) with python3.
 - 🤔 I’m looking for help with feedback on my code quality.
-- 💬 Ask me about 
-- 📫 How to reach me: tharcissentira@gmail.com
-- Linkedin : https://www.linkedin.com/in/tharcisse-ntirandekura
+- 💬 Ask me about python.
+- 📫 How to reach me:
+   . Email:tharcissentira@gmail.com
+   .Linkedin : https://www.linkedin.com/in/tharcisse-ntirandekura
+   . _tharack
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am the only programmer in my family.
