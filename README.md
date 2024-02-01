@@ -3,21 +3,15 @@ Hello world ! I am Tharcisse, and I am passionate about software engineering. I 
 <a href="https://app.daily.dev/tharcissentirandekura"><img src="https://api.daily.dev/devcards/bee07530e6214e668fff5af47c97966f.png?r=l5g" width="600" alt="Tharcisse Ntirandekura's Dev Card"/></a>
 
 ## 🌐 Social Media:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tharcisse.ntirandekura.37) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tharcisse.ntirandekura.37) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_tharack/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharcisse-ntirandekura)
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_tharack/)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharcisse-ntirandekura)
-
-# 📊 GitHub Stats:
+# 📊 GitHub Statistics:
 ![](https://github-readme-stats.vercel.app/api?username=tharcissentirandekura&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tharcissentirandekura&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tharcissentirandekura&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dondelice257&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tharcissentirandekura&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
