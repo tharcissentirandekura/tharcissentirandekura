@@ -1,4 +1,4 @@
-## Who am I?./config.sh --url https://github.com/tharcissentirandekura/tharcissentirandekura --token A4RVLBI5FVX6RTWLIZSFW5DFXMTH6
+## Who am I?
 
 - :man: → Tharcisse Ntirandekura
 - :house: → Burundi 🇧🇮
