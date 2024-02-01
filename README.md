@@ -32,6 +32,5 @@
 
 ### 😂 Random Developer Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
-
-<button>Burundi is the first country in the world</button>
+<img src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_1280.jpg&tbnid=aVgXecnmQ_f1MM&vet=12ahUKEwi8oaa0tYmEAxXrx8kDHaJVCvkQMygAegQIARB1..i&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&docid=Ba_eiczVaD9-zM&w=1280&h=797&itg=1&q=images&ved=2ahUKEwi8oaa0tYmEAxXrx8kDHaJVCvkQMygAegQIARB1' style="height: 200px;"/>
 
