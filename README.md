@@ -1,5 +1,14 @@
-Hello world ! I am Tharcisse, and I am passionate about software engineering. I am studying computer science at Oberlin College!
+## Who am I?
 
+- :man: → Tharcisse Ntirandekura
+- :house: → burundi 🇧🇮
+- :books: → Oberlin College (Oberlin, Ohio, USA 🇺🇸)
+
+## My passions
+
+- Computer Science
+- Software development :computer:
+  
 <a href="https://app.daily.dev/tharcissentirandekura"><img src="https://api.daily.dev/devcards/bee07530e6214e668fff5af47c97966f.png?r=l5g" width="600" alt="Tharcisse Ntirandekura's Dev Card"/></a>
 
 ## 🌐 Social Media:
