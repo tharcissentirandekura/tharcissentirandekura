@@ -19,6 +19,6 @@ Hello world ! I am Tharcisse, and I am passionate about software engineering. I 
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=tharcissentirandekura&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 😂 Random Developer Meme to enjoy and get motivation from
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
+### 😂 Random Developer Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 300px widht : 400px;"/>
 
