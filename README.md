@@ -31,4 +31,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tharcissentirandekura&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 😂 Random Developer Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
+<p align="center"><img width='300' src='https://randommeme-five.vercel.app/' style="height: 200px;"/></p>
