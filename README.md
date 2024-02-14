@@ -32,3 +32,6 @@
 
                                               😂 Random Developer Meme
 <p align="center"><img width='300' src='https://randommeme-five.vercel.app/' style="height: 200px;"/></p>
+
+
+/**Be who you are wherever you are*/
